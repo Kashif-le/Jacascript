@@ -1,1 +1,1 @@
-# Jacascript
+# JavaScript
